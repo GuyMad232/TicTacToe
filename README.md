@@ -2,6 +2,10 @@
 
 ## 📝 Description
 This project is a reversed rendition of the classic TicTacToe game, conceptualized as an academic project for an Object-Oriented Programming (OOP) course. The game, implemented in C#, leverages Visual Studio Forms for graphical visualization, offering users an interactive and intuitive gameplay experience. The game offers adaptive gameplay with dynamic game validation, ensuring a responsive and engaging environment.
+![Game Play GIF](GamePlayGIF.gif)
+
+
+or watch full: [Watch Video](GamePlay.mp4)
 
 ## 🌐 Table of Contents
 1. [Features](#-features)
